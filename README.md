@@ -33,7 +33,7 @@ Examples from my custom projects:
 ![AI Chat](assets/ai-chat.png)  
 *AI chat system integrated into Discord for real-time responses*  
 
-![miscellaneous](assets/other.png)  
+![Miscellaneous](assets/other.png)  
 *Other Discord Basic Features with customizable prefix e.g /av /serverinfo etc*  
 
 
