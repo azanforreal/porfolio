@@ -10,7 +10,7 @@ Here’s a showcase of my work in Discord development.
 - Fun & Games — Truth/Dare, memes, Would You Rather, mini-games  
 - AI Chat Integration — smart replies, AFK system, conversation memory  
 - Server Utilities — role management, custom embeds, automod  
-- Can Add Custom Features — According To Customer Demand
+- Can Add Custom Features — According To Your Needs
 ---
 
 ## Bot Screenshots
