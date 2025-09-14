@@ -24,13 +24,13 @@ Examples from my custom projects:
 ![Moderation Example](assets/moderation.png)  
 *Ban/Kick system with professional embed logs*  
 
-![AI Chat](assets/ai-chat.png)  
+![AI System](assets/ai-chat.png)  
 *AI chat system integrated into Discord for real-time responses*  
 
 ![Games](assets/games.png)  
 *Perfect custom games to play with your friends to pass time*  
 
-![AI Chat](assets/ai-chat.png)  
+![AI Chat](assets/aifeature.png)  
 *AI chat system integrated into Discord for real-time responses*  
 
 ![Miscellaneous](assets/other.png)  
